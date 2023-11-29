@@ -1,5 +1,1 @@
-apples
-
-bananas
-
-oranges
+fruits
